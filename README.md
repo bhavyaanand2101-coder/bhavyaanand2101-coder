@@ -174,3 +174,5 @@ Full-Stack Architecture
 AI Integration
    ↓
 Automation Systems
+
+
